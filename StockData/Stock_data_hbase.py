@@ -94,6 +94,6 @@ def display_table():
 
 if __name__ == "__main__":
 
-    #create_table()
-    #import_into_hbase()
+    create_table()
+    import_into_hbase()
     display_table()
